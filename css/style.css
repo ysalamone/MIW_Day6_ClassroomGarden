@@ -598,7 +598,7 @@ body {
     -ms-flex-direction: row;
         flex-direction: row;
     width: 50%;
-    margin: 0.5rem 0;
+    margin: 0.25rem 0;
   }
   .promo-2021 > ul > li::before {
     display: none !important;
